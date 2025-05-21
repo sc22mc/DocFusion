@@ -22,3 +22,8 @@
 
 ## Quick Start
 ### 1. Environment Setup
+```bash
+conda create -n docfusion python=3.10
+conda activate docfusion
+pip install -r requirements.txt
+```
