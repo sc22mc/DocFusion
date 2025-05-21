@@ -13,3 +13,12 @@
 <p align="center">
   <img src="assets/figure2.png" width=80%>
 </p>
+
+## News 🚀🚀🚀
+
+**2025.05.22** 🎉🎉  **DocLatex-1.6M dataset** is released on [🤗Huggingface](https://huggingface.co/datasets/juliozhao/DocSynth300K), a large-scale, high-quality dataset with 1.5M LaTeX-annotated math expressions and 100K tables.
+
+**2025.05.21** 🎉🎉  **Paper** now available on [ArXiv](https://arxiv.org/abs/2412.12505).  
+
+## Quick Start
+### 1. Environment Setup
