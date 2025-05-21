@@ -27,3 +27,6 @@ conda create -n docfusion python=3.10
 conda activate docfusion
 pip install -r requirements.txt
 ```
+
+### 2. Prediction
+You can refer to [this notebook](https://github.com/sc22mc/DocFusion/blob/main/infer_example.ipynb) for a complete usage example.
