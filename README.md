@@ -30,3 +30,9 @@ pip install -r requirements.txt
 
 ### 2. Prediction
 You can refer to [this notebook](https://github.com/sc22mc/DocFusion/blob/main/infer_example.ipynb) for a complete usage example.
+
+### Datasets and Weights
+
+- [Model Weights](https://huggingface.co/sc22mc/DocFusion)  
+- [Dataset](https://huggingface.co/datasets/sc22mc/DocLatex)
+
